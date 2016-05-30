@@ -20,3 +20,6 @@ Execute the following commands:
 
 > **python fetch.py** to try it
 
+##About
+This script will download the list of jobs available in the city of Ottawa and it will insert all new jobs in a database.
+

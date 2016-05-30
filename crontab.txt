@@ -1,2 +1,2 @@
-30 18 * * * /home/guinsly/ottawacityjob_cron/./fetch.py > /var/log/daily.log 2>&1
-30 11 * * * /home/guinsly/ottawacityjob_cron/./fetch.py > /var/log/daily.log 2>&1
+15 18 * * * /home/guinsly/ottawacityjob_cron/./fetch.py > /var/log/daily.log 2>&1
+30 18 * * * /home/guinsly/ottawacityjob_cron/./application.php > /var/log/daily.log 2>&1
