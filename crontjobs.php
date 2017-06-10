@@ -1,6 +1,7 @@
 <?php
 //This script will download all the jobs and 
-// write them in a json file 
+//write them in a json file (including the date)
+//
 
 $emplois = array("http://www.ottawacityjobs.ca/en/data/", "http://www.ottawacityjobs.ca/fr/data/"); 
 
